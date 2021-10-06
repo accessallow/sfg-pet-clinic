@@ -52,6 +52,7 @@
     <scm>
         <connection>${project.parent.scm.connection}</connection>
         <developerConnection>${project.parent.scm.developerConnection}</developerConnection>
-    </scm>
+      <tag>sfg-pet-clinic-0.0.1</tag>
+  </scm>
 
 </project>
