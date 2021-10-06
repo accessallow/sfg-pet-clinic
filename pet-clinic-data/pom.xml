@@ -69,5 +69,9 @@
         </plugins>
     </build>
 
+    <scm>
+        <connection>${project.parent.scm.connection}</connection>
+        <developerConnection>${project.parent.scm.developerConnection}</developerConnection>
+    </scm>
 
 </project>
