@@ -62,7 +62,6 @@
 	<scm>
 		<url>https://github.com/accessallow/sfg-pet-clinic</url>
 		<connection>scm:git:https://github.com/accessallow/sfg-pet-clinic.git</connection>
-		<developerConnection>scm:git:https://github.com/accessallow/sfg-pet-clinic.git</developerConnection>
 		<tag>sfg-pet-clinic-0.0.1</tag>
 	</scm>
 
