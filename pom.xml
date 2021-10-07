@@ -54,8 +54,6 @@
 				<configuration>
 					<goals>install</goals>
 					<autoVersionSubmodules>true</autoVersionSubmodules>
-					<username>accessallow</username>
-					<password>Ppankaj123#</password>
 				</configuration>
 			</plugin>
 		</plugins>
